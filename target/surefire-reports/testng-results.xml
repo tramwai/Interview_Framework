@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T17:22:28 CDT" name="scripts.ActualWebPageTest" finished-at="2023-04-02T17:22:33 CDT" duration-ms="5086">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T17:22:28 CDT" name="Command line test" finished-at="2023-04-02T17:22:33 CDT" duration-ms="5086">
+      <class name="scripts.ActualWebPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts.ActualWebPageTest@ba54932]" started-at="2023-04-02T17:22:28 CDT" name="setup" finished-at="2023-04-02T17:22:31 CDT" duration-ms="2675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setPage()[pri:0, instance:scripts.ActualWebPageTest@ba54932]" started-at="2023-04-02T17:22:31 CDT" name="setPage" finished-at="2023-04-02T17:22:31 CDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method signature="validateActualWebPage()[pri:1, instance:scripts.ActualWebPageTest@ba54932]" started-at="2023-04-02T17:22:31 CDT" name="validateActualWebPage" description="validate actual web page" finished-at="2023-04-02T17:22:33 CDT" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateActualWebPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts.ActualWebPageTest@ba54932]" started-at="2023-04-02T17:22:33 CDT" name="teardown" finished-at="2023-04-02T17:22:33 CDT" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.ActualWebPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- scripts.ActualWebPageTest -->
+</testng-results>
